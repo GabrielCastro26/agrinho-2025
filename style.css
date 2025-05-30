@@ -11,9 +11,9 @@
   --font-titulo:"Rakkas", serif;
 }
 
-/* Reset
+/* Reset */
 * {
-    margin 0;
+    margin: 0;
     padding: 0;
     box-sizing: borderbox;
     font-family: var(--font-body);
